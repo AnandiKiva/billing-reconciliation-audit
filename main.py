@@ -1,8 +1,3 @@
-# Command line entry point.
-#   python main.py generate     create mock data in data/
-#   python main.py audit        run the controls and write reports to output/
-#   python main.py all          both of the above
-
 import argparse
 import sys
 
